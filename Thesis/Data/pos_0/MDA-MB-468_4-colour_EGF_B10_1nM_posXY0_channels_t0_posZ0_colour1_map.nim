@@ -1,0 +1,1 @@
+{"margin":{"bottom":0.0,"left":0.0,"right":0.0,"top":0.0},"regions":[{"mapping":null,"region":{"h":684,"w":428,"x":0,"y":0}},{"mapping":{"transFromA":[0.0,1.0,0.0,0.0,0.0,0.0],"transFromB":[0.0,0.0,1.0,0.0,0.0,0.0],"transToA":[0.0,1.0,0.0,0.0,0.0,0.0],"transToB":[0.0,0.0,1.0,0.0,0.0,0.0]},"region":{"h":684,"w":428,"x":428,"y":0}}]}

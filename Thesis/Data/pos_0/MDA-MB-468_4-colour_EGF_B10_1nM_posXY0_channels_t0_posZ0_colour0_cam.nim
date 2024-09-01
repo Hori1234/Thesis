@@ -1,0 +1,1 @@
+{"FrameRegions":[{"iterations":30,"lowerWavelength":498.0,"sigma":0.8215201497077942,"upperWavelength":620.0},{"iterations":30,"lowerWavelength":662.0,"sigma":1.034554362297058,"upperWavelength":710.0}],"ObjectiveMagnification":100.0,"ObjectiveNA":1.399999976158142,"PixelSizeUm":0.11699999868869781,"ROI":[0,0,856,684],"SpotSizeUm":71.36000061035156,"cameraBinning":1}
